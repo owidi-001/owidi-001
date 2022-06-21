@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Omondi Owidi
-- 👀 I’m interested in [Cyber security,Machine learning]
-- 🌱 I’m currently learning [Pandas for data science]
-- 💞️ I’m looking to collaborate on [Building ml models]
+- 👀 I’m a software engineer
+- 🌱 I’m currently learning flutter for android
+- 💞️ I’m looking to collaborate on [Building apps]
 - 📫 How to reach me: Email kevinalex846@gmail.com
 
 <!---
